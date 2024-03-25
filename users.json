@@ -1,0 +1,62 @@
+{
+	"epayment": {
+		"username": "epay",
+		"password": "epay",
+		"landingPage": "/epay/transactions",
+		"client": "ePayment"
+	},
+	"tem": {
+		"username": "temadmin",
+		"password": "temadmin",
+		"landingPage": "/apps-dashboard",
+		"client": "CorcentricExpense"
+	},
+	"cor360approval": {
+		"username": "admincor360",
+		"password": "cor3601",
+		"landingPage": "/360approval",
+		"client": "Cor360Approval"
+	},
+	"admincor360mob": {
+		"username": "admincor360mob",
+		"password": "cor3601",
+		"landingPage": "/360approval",
+		"client": "Cor360Approval"
+	},
+	"cor360approvaluat": {
+		"username": "admincor360",
+		"password": "Cor360!#",
+		"landingPage": "/360approval",
+		"client": "Cor360Approval"
+	},
+	"all": {
+		"username": "testmegood",
+		"password": "TheK1ngQA!",
+		"landingPage": "/apps-dashboard",
+		"client": "All"
+	},
+	"prod": {
+		"username": "testmegood",
+		"password": "TheK1ngQA!",
+		"landingPage": "/apps-dashboard",
+		"client": "Prod"
+	},
+	"admin.moran.towing": {
+		"username": "admin.moran.towing",
+		"password": "amt123",
+		"landingPage": "/tem/dashboard",
+		"client": "MoranTowing"
+	},
+	"capitalequipment": {
+		"username": "testmegood",
+		"password": "TheK1ngQA!",
+		"landingPage": "/apps-dashboard",
+		"client": "CapitalEquipment"
+	},
+	"testadmin": {
+		"username": "meali",
+		"password": "Jasmine2019!",
+		"landingPage": "/apps-dashboard",
+		"client": "CorcentricExpense"
+	}
+}

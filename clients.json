@@ -1,0 +1,36 @@
+{
+	"ePayment":
+	{
+		"categories": [ 63000 ]
+	},
+
+	"CorcentricExpense":
+	{
+		"categories": [ 62000 ]
+	},
+
+	"Cor360Approval":
+	{
+		"categories": [ 3601 ]
+	},
+
+	"All":
+	{
+		"categories": [ 60360,63000,120,500,62000,100, 60100 ]
+	},
+
+	"Prod":
+	{
+		"categories": [ 63000,120,500,62000,100 ]
+	},
+
+	"CapitalEquipment":
+	{
+		"categories": [ 60100 ]
+	},
+
+	"MoranTowing":
+	{
+		"categories": [ 62000 ]
+	}
+}

@@ -1,0 +1,63 @@
+{
+    "26326" : [
+            {
+                "DocType":"I"
+            },
+            {
+                "DocType":"PR"
+            }],
+
+    "26558" : [
+            {
+                "DocType":"I"
+            },
+            {
+                "DocType":"PR"
+            }],
+    "26927" : [
+        {
+            "GroupType":1, "GroupTypeName":"Approval"
+        },
+        {
+            "GroupType":2, "GroupTypeName":"Policy"
+        }],
+    "26966" : [
+        {
+            "GroupType":1, "GroupTypeName":"Approval"
+        },
+        {
+            "GroupType":2, "GroupTypeName":"Policy"
+        }],
+    "27370" : [
+        {
+            "DocType":"I"
+        },
+        {
+            "DocType":"PR"
+        }],
+    "26724" : [
+        {
+            "DocType":"I"
+        },
+        {
+            "DocType":"PR"
+        }],
+    "26749" : [
+        {
+            "DocType":"I"
+        },
+        {
+            "DocType":"PR"
+        }],
+    "27492" : 
+    {
+        "skip": true
+    },
+    "27493" : [
+        {
+            "DocType":"I"
+        },
+        {
+            "DocType":"PR"
+        }]
+}

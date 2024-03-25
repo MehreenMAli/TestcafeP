@@ -1,0 +1,65 @@
+{
+    "local": {
+        "baseUrl": "http://localhost:4200",
+        "apiURL": "https://62000-cwsdev.corcentric.com/api",
+        "tokenURL": "https://sts-cwsdev.corcentric.com/token/getbearertoken",
+        "url_cor360": "//62000-cwsdev.corcentric.com",
+        "url_epay": "//63000-cwsdev.corcentric.com",
+        "url_tem": "//62000-cwsdev.corcentric.com",
+        "url_cor360approval": "//60360-cwsdev.corcentric.com"
+    },
+    "dev": {
+        "baseUrl": "https://metroui-dev.corcentric.com",
+        "apiURL": "https://62000-dev.corcentric.com/api",
+        "tokenURL": "https://sts-dev.corcentric.com/token/getbearertoken",
+        "url_cor360": "//62000-dev.corcentric.com",
+        "url_epay": "//63000-dev.corcentric.com",
+        "url_tem": "//62000-dev.corcentric.com",
+        "url_cor360approval": "//60360-dev.corcentric.com"
+    },
+    "qa": {
+        "baseUrl": "https://metroui-cwsqa.corcentric.com",
+        "apiURL": "https://62000-cwsqa.corcentric.com/api",
+        "tokenURL": "https://sts-cwsqa.corcentric.com/token/getbearertoken",
+        "url_cor360": "//62000-qa.corcentric.com",
+        "url_epay": "//63000-qa.corcentric.com",
+        "url_tem": "//62000-qa.corcentric.com",
+        "url_cor360approval": "//60360-qa.corcentric.com"
+    },
+    "uat": {
+        "baseUrl": "https://metroui-uat.corcentric.com",
+        "apiURL": "https://62000-uat.corcentric.com/api",
+        "tokenURL": "https://sts-uat.corcentric.com/token/getbearertoken",
+        "url_cor360": "//62000-uat.corcentric.com",
+        "url_epay": "//63000-uat.corcentric.com",
+        "url_tem": "//62000-uat.corcentric.com",
+        "url_cor360approval": "//60360-uat.corcentric.com"
+    },
+    "cwsdev": {
+        "baseUrl": "https://metroui-cwsdev.corcentric.com",
+        "apiURL": "https://62000-cwsdev.corcentric.com/api",
+        "tokenURL": "https://sts-cwsdev.corcentric.com/token/getbearertoken",
+        "url_cor360": "//62000-cwsdev.corcentric.com",
+        "url_epay": "//63000-cwsdev.corcentric.com",
+        "url_tem": "//62000-cwsdev.corcentric.com",
+        "url_cor360approval": "//60360-cwsdev.corcentric.com"
+    },
+    "cwsqa": {
+        "baseUrl": "https://metroui-cwsqa.corcentric.com",
+        "apiURL": "https://62000-cwsqa.corcentric.com/api",
+        "tokenURL": "https://sts-cwsqa.corcentric.com/token/getbearertoken",
+        "url_cor360": "//62000-cwsqa.corcentric.com",
+        "url_epay": "//63000-cwsqa.corcentric.com",
+        "url_tem": "//62000-cwsqa.corcentric.com",
+        "url_cor360approval": "//60360-cwsqa.corcentric.com"
+    },
+    "prod": {
+        "baseUrl": "https://metroui.corcentric.com",
+        "apiURL": "https://62000.corcentric.com/api",
+        "tokenURL": "https://sts.corcentric.com/token/getbearertoken",
+        "url_cor360": "//62000.corcentric.com",
+        "url_epay": "//63000.corcentric.com",
+        "url_tem": "//62000.corcentric.com",
+        "url_cor360approval": "//60360.corcentric.com"
+    }
+}
